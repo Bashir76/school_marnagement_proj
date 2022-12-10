@@ -40,37 +40,6 @@
 								<div class="card-text text-black-50">Web Developer, SE Student</div>
 							</div>
 						</div>
-	/**				</div>
-				
-             <!-- Team Member 2 -->
-				<div class="col-xl-6 col-md-12 mb-4">
-					<div class="card border-0 shadow">
-						<img src="https://source.unsplash.com/9UVmlIb0wJU/500x350" class="card-img-top" alt="...">
-						<div class="card-body text-center">
-							<h5 class="card-title mb-0">Rima Sing</h5>
-							<div class="card-text text-black-50">Web Developer</div>
-						</div>
-					</div>
-				</div>
-				
-			</div>
-			<!-- /.row 1-->
-
-			<!-- Team Member 3 -->
-			<div class="row"> 
-				<div class="col-xl-6 col-md-12 mb-4" id="col">
-					<div class="card border-0 shadow">
-						<img src="https://source.unsplash.com/sNut2MqSmds/500x350" class="card-img-top" alt="...">
-						<div class="card-body text-center">
-							<h5 class="card-title mb-0">Rohan Gavali</h5>
-							<div class="card-text text-black-50">Web Developer</div>
-						</div>
-					</div>
-				</div>
-			</div>
-*/
-			<!-- /.row 2 -->
-		</div>
 		<!-- /.container -->
 
 		<!-- FOOTER -->
