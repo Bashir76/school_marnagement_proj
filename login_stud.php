@@ -9,11 +9,11 @@ if (isset($_GET['studentId'])) {
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="Student Login ">
+    <meta name="author" content="Bashir Amirkano">
     <link rel="icon" href="../../../../favicon.ico">
 
-    <title>Student Login | TMS</title>
+    <title>Student Login | NG School</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/floating-labels/">
 
