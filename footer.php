@@ -178,8 +178,8 @@
   <div class="container">
     <div class="row row-pb-md">
       <div class="col-md-4 fh5co-widget">
-        <h3>TMS </h3>
-        <p style="color: darkgrey;">Join TMS to manage the details profesionally</p>
+        <h3>NG School</h3>
+        <p style="color: darkgrey;">Join NG School to manage Your School Data.</p>
         <p><a class="btn btn-info" href="regi_form.php">Sign Up</a></p>
       </div>
       <div class="col-md-8">
@@ -200,7 +200,7 @@
             <ul class="fh5co-footer-links">
               <li>
                 <a href="#"><span class="fa fa-map-marker fa-1x"></span>
-                  <span class="text">  &nbsp; &nbsp; Surat | Gujarat</span>
+                  <span class="text">  &nbsp; &nbsp; Kano | Nigeria</span>
                 </a>
               </li>
               <li>
@@ -211,7 +211,7 @@
               <li>
                 <a href="#">
                   <span class="fa fa-envelope fa-1x"></span>
-                  <span class="text">&nbsp; &nbsp;tms@gmail.com</span>
+                  <span class="text">&nbsp; &nbsp;ameerkn76@gmail.com</span>
                 </a>
               </li>
             </ul>
@@ -256,8 +256,8 @@
     <div class="row copyright">
       <div class="col-md-12 text-center">
         <p>
-          <small class="block" style="color: darkgrey;">&copy; 2019 | All Rights Reserved.</small> 
-          <small class="block" style="color: darkgrey;">Powered by  TMS.com</small>
+          <small class="block" style="color: darkgrey;">&copy; 2022 | All Rights Reserved.</small> 
+          <small class="block" style="color: darkgrey;">Powered by  Amirkano2022</small>
         </p>
       </div>
     </div>
