@@ -1,7 +1,7 @@
 <html>
 <head>
 
-<title>About Us | TMS</title>
+<title>About Us | NG School</title>
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
 
@@ -34,14 +34,15 @@
 			<!-- Team Member 1 -->
 					<div class="col-xl-6 col-md-12 mb-4">
 						<div class="card border-0 shadow">
-							<img src="https://source.unsplash.com/TMgQMXoglsM/500x350" class="card-img-top" alt="...">
+							<img src="../images/student2" class="card-img-top" alt="...">
 							<div class="card-body text-center">
-								<h5 class="card-title mb-0">Tanuj Patra</h5>
-								<div class="card-text text-black-50">PHP Developer</div>
+								<h5 class="card-title mb-0">Amir Kano</h5>
+								<div class="card-text text-black-50">Web Developer, SE Student</div>
 							</div>
 						</div>
-					</div>
-				<!-- Team Member 2 -->
+	/**				</div>
+				
+             <!-- Team Member 2 -->
 				<div class="col-xl-6 col-md-12 mb-4">
 					<div class="card border-0 shadow">
 						<img src="https://source.unsplash.com/9UVmlIb0wJU/500x350" class="card-img-top" alt="...">
@@ -67,6 +68,7 @@
 					</div>
 				</div>
 			</div>
+*/
 			<!-- /.row 2 -->
 		</div>
 		<!-- /.container -->
