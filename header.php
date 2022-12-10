@@ -1,5 +1,4 @@
-
-  <style type="text/css" rel="stylesheet" >
+<style type="text/css" rel="stylesheet" >
     .navbar-nav .nav-item .nav-link
     {
       color: #fff;
@@ -50,7 +49,7 @@
   </style>
 
 <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-  <img class="rounded-circle" src="../images/AmirKano-icon.png" width="50" height="40" alt="TMS">
+  <img class="rounded-circle" src="../images/AmirKano-icon.png" width="50" height="40" alt="AK-icon">
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
