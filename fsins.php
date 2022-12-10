@@ -1,23 +1,23 @@
 <?php
 
 	/* CALL */
-//sendMail('tanujpatra228@gmail.com', 'Tanuj Patra', 'STONE', 'origamigifts9@gmail.com', 'Testing email function 1','Testing email function 1');
+//sendMail('ameerkn76@gmail.com', 'Kano Nigeria', 'STONE', 'akgraphicsdesign76@gmail.com', 'Testing email function 1','Testing email function 1');
 
 function sendMail($ToEmail,$ToName,$FromName,$bcc,$subject,$messageBody){
 	require "class.phpmailer.php";
 	$mail = new PHPMailer;
 	$mail->isSMTP();                                      // Set mailer to use SMTP
 	$mail->SMTPDebug = 2;
-	$mail->Host = 'smtp.gmail.com';  	// Specify main and backup server
-	$mail->SMTPAuth = true;                               // Enable SMTP authentication
-	$mail->Username = 'aaranstone22@gmail.com';      // SMTP username suratrealestate2015@gmail.com       noreplaybuyerfox@gmail.com
-	$mail->Password = 'aaranstone2';                           // SMTP password suratrealestate                      admin@123*
-	$mail->SMTPSecure = 'ssl';                            // Enable encryption, 'ssl' also accepted
-	$mail->Port = '465';						//Port Number
+	$mail->Host = 'smtp.gmail.com';  
+	$mail->SMTPAuth = true;                               
+	$mail->Username = 'ameekn76@gmail.com';            
+	$mail->Password = 'ameekn76';                                                
+	$mail->SMTPSecure = 'ssl';                            
+	$mail->Port = '465';						
 
-	$mail->From = 'aaranstone2208@gmail.com';			//From Email Id
-	$mail->FromName = $FromName;		//From Email Id Display Name        Surat Real Esate(Real Estate)
-	//$mail->addAddress('josh@example.net', 'Josh Adams');  // Add a recipient
+	$mail->From = 'ameekn76@gmail.com';			
+	$mail->FromName = $FromName;		//From Email Id Display Name        
+	//$mail->addAddress('mail@example.net', 'mail example');  // Add a recipient
 	$mail->addAddress($ToEmail,$ToName);               // Name is optional
 	//$mail->addReplyTo('info@example.com', 'Information');
 	//$mail->addCC('cc@example.com');
