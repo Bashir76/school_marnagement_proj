@@ -87,7 +87,7 @@
           <!-- Three columns of text below the carousel -->
           <div class="row">
             <div class="col-md-4">
-              <img class="rounded-circle" src="images\promo\images.jpg" alt="Generic placeholder image" width="140" height="140">
+              <img class="rounded-circle" src="images\promo\alx.jpg" alt="Generic placeholder image" width="140" height="140">
               <h2>Africa Leadership Group</h2>
               <p> Available Course:
                 <ul class="course"> 
@@ -108,10 +108,10 @@
                   </li>
                 </ul>
               </p> 
-              <p><a class="btn btn-primary" href="https://alohagujarat.com/" role="button">View details »</a></p>
+              <p><a class="btn btn-primary" href="https://www.alxafrica.com/" role="button">View details »</a></p>
             </div><!-- /.col-md-4 -->
             <div class="col-md-4">
-              <img class="rounded-circle" src="images\promo\index.jpg" alt="Generic placeholder image" width="140" height="140">
+              <img class="rounded-circle" src="images\promo\alx.jpg" alt="Generic placeholder image" width="140" height="140">
               <h2>Radix Coaching Class</h2>
               <p> Courses Available For Africans <br/><br/>
                 All are FREE for Young Africans Under 18year to Above:<br/>
@@ -126,7 +126,7 @@
               <p><a class="btn btn-primary" href="http://www.radixclasses.com/Default.aspx" role="button">View details »</a></p>
             </div><!-- /.col-md-4 -->
             <div class="col-md-4" style="">
-              <img class="rounded-circle" src="images\promo\mahavirtutor.png" width="150" height="150">
+              <img class="rounded-circle" src="images\promo\fcc.png" width="150" height="150">
               <h2>FreeCodeCamp.Org</h2>
               <p>Available Courses<br/>
                 <ul class="course"> 
