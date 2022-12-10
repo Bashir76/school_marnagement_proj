@@ -61,7 +61,7 @@
   </style>
 
 <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-	<img class="rounded-circle" src="images/TMS_logo.png" width="50" height="50" alt="TMS">
+	<img class="rounded-circle" src="images/AmirKano-icon.png" width="50" height="50" alt="Amir-icon">
 	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
 		<span class="navbar-toggler-icon"></span>
 	</button>
