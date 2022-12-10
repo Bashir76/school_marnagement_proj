@@ -3,11 +3,11 @@
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="">
-  <meta name="author" content="">
-  <link rel="icon" href="images/TMS.png">
+  <meta name="description" content="this is my Portfolio project As part of Alx SE program project. ">
+  <meta name="author" content="Bashir_Saleh_Umar-AmirKano">
+  <link rel="icon" href="images/AmirKano-icon.png">
 
-  <title>Home | TMS</title>
+  <title>Home | NG School</title>
   
   <!-- Latest compiled and minified CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
@@ -88,23 +88,23 @@
           <div class="row">
             <div class="col-md-4">
               <img class="rounded-circle" src="images\promo\images.jpg" alt="Generic placeholder image" width="140" height="140">
-              <h2>Aloha</h2>
+              <h2>Africa Leadership Group</h2>
               <p> Available Course:
                 <ul class="course"> 
-                  <li class="course_item"> For Age group 7-14 <br/>
-                    <a class="course_link" href="https://alohagujarat.com/courses/mental-arithmetic-senior">Mental Arithmetic Senior</a>
+                  <li class="course_item"> Opportunity For all Africans From 18years Free <br/>
+                    <a class="course_link" href="https://www.alxafrica.com/programme_post/full-stack-software-engineer/">Full Stack Software Engineer</a>
                   </li>
-                  <li class="course_item"> For Age group 4-7 <br/>
-                    <a class="course_link" href="https://alohagujarat.com/courses/mental-arithmetic-tiny-tots">Mental Arithmetic Tiny Tots</a>
+                  <li class="course_item"> Opportunity For all Africans From 18years Free <br/>
+                    <a class="course_link" href="https://www.alxafrica.com/programme_post/financial-analyst/">Financial Analyst</a>
                   </li>
-                  <li class="course_item"> For Age group 6-14 <br/>
-                    <a class="course_link" href="https://alohagujarat.com/courses/english-smart">English Smart</a>
+                  <li class="course_item"> Opportunity For all Africans From 18years Free <br/>
+                    <a class="course_link" href="https://www.alxafrica.com/programme_post/virtual-assistant/">Virtual Assistant</a>
                   </li>
-                  <li class="course_item"> For Age group 6-14 <br/>
-                    <a class="course_link" href="https://alohagujarat.com/courses/write-smart">Write Smart</a>
+                  <li class="course_item"> Opportunity For all Africans From 18years Free <br/>
+                    <a class="course_link" href="https://www.alxafrica.com/programme_post/data-analyst/">Data Analyst</a>
                   </li>
-                  <li class="course_item"> For Age group 12-25 <br/>
-                    <a class="course_link" href="https://alohagujarat.com/courses/speed-maths">Speed Maths</a>
+                  <li class="course_item"> Opportunity For all Africans From 18years Free <br/>
+                    <a class="course_link" href="https://www.alxafrica.com/software-engineering-2022/">Software Engineering</a>
                   </li>
                 </ul>
               </p> 
@@ -113,29 +113,28 @@
             <div class="col-md-4">
               <img class="rounded-circle" src="images\promo\index.jpg" alt="Generic placeholder image" width="140" height="140">
               <h2>Radix Coaching Class</h2>
-              <p> Courses Available For Commerce CBSE only<br/><br/>
-                All Main Subjects for XI and XII Commerce:<br/>
+              <p> Courses Available For Africans <br/><br/>
+                All are FREE for Young Africans Under 18year to Above:<br/>
                 <ul class="course"> 
-                  <li class="course_item"> Accountancy</li>
-                  <li class="course_item"> Business Studies</li>
-                  <li class="course_item"> Economics</li>
-                  <li class="course_item"> Mathematics</li>
-                  <li class="course_item"> Entrepreneur</a></li>
-                  <li class="course_item"> English</a></li>
+                  <li class="course_item"> Full Stack Software Engineer</li>
+                  <li class="course_item"> Data Analyst</li>
+                  <li class="course_item"> Visual Analyst</li>
+                  <li class="course_item"> Financial Analyst</li>
+                  <li class="course_item"> Software Engineer</li>
                 </ul>
               </p>
               <p><a class="btn btn-primary" href="http://www.radixclasses.com/Default.aspx" role="button">View details »</a></p>
             </div><!-- /.col-md-4 -->
             <div class="col-md-4" style="">
               <img class="rounded-circle" src="images\promo\mahavirtutor.png" width="150" height="150">
-              <h2>Mahavir Tutors</h2>
+              <h2>FreeCodeCamp.Org</h2>
               <p>Available Courses<br/>
                 <ul class="course"> 
-                  <li class="course_item"> Certification Course</li>
-                  <li class="course_item"> Academics</li>
-                  <li class="course_item"> Engineering</li>
+                  <li class="course_item"> Responsive-web-design</li>
+                  <li class="course_item"> JavaScript And Algorithms</li>
+                  <li class="course_item"> FrontEnd Development</li>
                 </ul></p>
-                <p><a class="btn btn-primary" href="http://www.mahavirtutors.in/" role="button">View details »</a></p>
+                <p><a class="btn btn-primary" href="http://www.freecodecamp.org/" role="button">View details »</a></p>
               </div><!-- /.col-md-4 -->
             </div><!-- /.row -->
 
