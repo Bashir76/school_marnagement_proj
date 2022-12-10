@@ -1,35 +1,7 @@
 <?php
 /**
- * PHPMailer RFC821 SMTP email transport class.
- * Version 5.2.7
- * PHP version 5.0.0
- * @category  PHP
- * @package   PHPMailer
- * @link      https://github.com/PHPMailer/PHPMailer/
- * @author Marcus Bointon (coolbru) <phpmailer@synchromedia.co.uk>
- * @author Jim Jagielski (jimjag) <jimjag@gmail.com>
- * @author Andy Prevost (codeworxtech) <codeworxtech@users.sourceforge.net>
- * @copyright 2013 Marcus Bointon
- * @copyright 2004 - 2008 Andy Prevost
- * @copyright 2010 - 2012 Jim Jagielski
- * @license   http://www.gnu.org/copyleft/lesser.html Distributed under the Lesser General Public License (LGPL)
- */
-
-/**
- * PHPMailer RFC821 SMTP email transport class.
- *
- * Implements RFC 821 SMTP commands
- * and provides some utility methods for sending mail to an SMTP server.
- *
- * PHP Version 5.0.0
- *
- * @category PHP
- * @package  PHPMailer
- * @link     https://github.com/PHPMailer/PHPMailer/blob/master/class.smtp.php
- * @author   Chris Ryan <unknown@example.com>
- * @author   Marcus Bointon <phpmailer@synchromedia.co.uk>
- * @license  http://www.gnu.org/copyleft/lesser.html Distributed under the Lesser General Public License (LGPL)
- */
+*
+*/
 
 class SMTP
 {
