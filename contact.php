@@ -16,18 +16,18 @@ if (isset($_POST['submit'])) {
     $mail->SMTPDebug = 2;
     $mail->Host = 'smtp.gmail.com';     // Specify main and backup server
     $mail->SMTPAuth = true;                               // Enable SMTP authentication
-    $mail->Username = 'aaranstone22@gmail.com';      // SMTP username suratrealestate2015@gmail.com       noreplaybuyerfox@gmail.com
-    $mail->Password = 'aaranstone2';                           // SMTP password suratrealestate                      admin@123*
+    $mail->Username = 'ameekn76@gmail.com';      // SMTP username ameekn76@gmail.com     noreplaybuyerfox@gmail.com
+    $mail->Password = 'ameerkn76';                           // SMTP password                      admin@123*
     $mail->SMTPSecure = 'ssl';                            // Enable encryption, 'ssl' also accepted
     $mail->Port = '465';                        //Port Number
 
     $mail->From = $email;         //From Email Id
     $mail->FromName = $name;       //From Email Id Display Name        Surat Real Esate(Real Estate)
-    //$mail->addAddress('josh@example.net', 'Josh Adams');  // Add a recipient
-    $mail->addAddress('tms@gmail.com','TMS');               // Name is optional
+    //$mail->addAddress('mail@example.net', 'mail Example');  // Add a recipient
+    $mail->addAddress('ameerkn76@gmail.com','NG School');               // Name is optional
     //$mail->addReplyTo('info@example.com', 'Information');
     //$mail->addCC('cc@example.com');
-    $mail->addBCC('tanujpatra228@gmail.com');
+    $mail->addBCC('akgraphicsdesign76@gmail.com');
 
     $mail->WordWrap = 50;                                 // Set word wrap to 50 characters
     //$mail->addAttachment('');         // Add attachments
@@ -44,10 +44,10 @@ if (isset($_POST['submit'])) {
 
 <head>
     <meta charset="UTF-8">
-    <meta name="author" content="Sahil Kumar">
+    <meta name="author" content="Bashir Amirkano">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <title>Contact Us | TMS</title>
+    <title>Contact Us | NG School</title>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
 
@@ -338,7 +338,7 @@ if(isset($_POST['submit']) && $mail->send()){
 
                     <div class="form-group input-group">
                         <div class="input-group-prepend">
-                            <span class="input-group-text fa fa-comment" id="basic-addons4" style="padding-top: 25px;"></span>
+                            <span class="input-group-text fa fa-comment" id="basic-addons4" style="padding-top: 26px;"></span>
                         </div>
                         <textarea class="form-control" name="message" placeholder="Write your message" aria-label="With textarea"></textarea>
                     </div>
@@ -358,7 +358,7 @@ if(isset($_POST['submit']) && $mail->send()){
                         <li class="list-item">
                             <i class="fa fa-map-marker fa-2x">
                                 <span class="contact-text place">
-                                    <a href="" title="Our Location">Surat | Gujarat</a>
+                                    <a href="" title="Our Location">Kano | Nigeria</a>
                                 </span>
                             </i>
                         </li>
@@ -366,7 +366,7 @@ if(isset($_POST['submit']) && $mail->send()){
                         <li class="list-item">
                             <i class="fa fa-phone fa-2x">
                                 <span class="contact-text phone">
-                                    <a href="tel:1-91-704-305-6077" title="Give me a call">((+91) 704-305-6077)</a>
+                                    <a href="tel:1-91-704-305-6077" title="Give me a call">((+234) 8164808800)</a>
                                 </span>
                             </i>
                         </li>
@@ -374,7 +374,7 @@ if(isset($_POST['submit']) && $mail->send()){
                         <li class="list-item">
                             <i class="fa fa-envelope fa-2x">
                                 <span class="contact-text gmail">
-                                    <a href="mailto:#" title="Send me an email">tms@gmail.com
+                                    <a href="mailto:#" title="Send me an email">ameekn76@gmail.com
                                     </a>
                                 </span>
                             </i>
