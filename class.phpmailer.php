@@ -1,4 +1,4 @@
-<!php
+<?php
 /**
  * PHPMailer - PHP email creation and transport class
  * NOTE: Requires PHP version 5 or later
